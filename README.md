@@ -10,3 +10,7 @@
 
 > headings and navigation style
 > `font-family: 'Josefin Sans', -apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif`
+
+### App header
+
+breakpoint is set to lg:1024.
